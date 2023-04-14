@@ -1,6 +1,6 @@
 # Simple React 
 ## Modern Front-End Core Concepts 
-    Web Componant 
+    Web Component 
     Dynamically Create HTML Element 
     Single Page Application (SPA)
     ROuting, Route Parameter 
@@ -19,7 +19,7 @@
 
 
 ##  How React Works 
-    - What is JSX, React Componant, babel Traspiler 
+    - What is JSX, React Component, babel Traspiler 
     - Component and how props works 
     - Unidirection data flow 
     - How states works, Asynchronous 
@@ -31,4 +31,14 @@
     - React component lifecycle 
 
 
-## 
+## Web Compoeant 
+    - 4 Types of Component
+        - Similar in Look, Different in Data (Component)
+        - Similar in look, different in data in contain 
+        - No Pattern, But breakdown for working purpose 
+        - Stand Alone Option 
+
+    
+## Template, Dynamically Create HTML elements based on Data 
+    - Example: Rest Countries 
+    [Rest Countries](Rest countries.index.html)
