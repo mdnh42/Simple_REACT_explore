@@ -42,3 +42,13 @@
 ## Template, Dynamically Create HTML elements based on Data 
     - Example: Rest Countries 
     [Rest Countries](Rest countries.index.html)
+
+
+## Single page Application (SPA), Performance benefit 
+    Fast response to user actions. To execute a user's request, an SPA loads a small JSON file instead of a new web page. ...
+    High performance and stability. ...
+    Fast development. ...
+    Desktop-like user experience. ...
+    Mobile-friendly.
+
+## 
