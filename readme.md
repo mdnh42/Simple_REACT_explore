@@ -32,6 +32,8 @@
 
 
 ## Web Compoeant 
+    - Building blocks of the user interface 
+    - 
     - 4 Types of Component
         - Similar in Look, Different in Data (Component)
         - Similar in look, different in data in contain 
@@ -40,7 +42,7 @@
 
     
 ## Template, Dynamically Create HTML elements based on Data 
-    - Example: Rest Countries 
+    - Example: 01 Rest Countries 
     [Rest Countries](Rest countries.index.html)
 
 
@@ -51,4 +53,37 @@
     Desktop-like user experience. ...
     Mobile-friendly.
 
-## 
+## Routing, Route Parameter, Routing in React 
+    The Router in React JS is primarily used to create Single Page Web Apps. In the application, React Router is utilized to define various routes. When a user enters a URL into your browser and the URL route equals one of several 'pathways' as in the router folder, the user is sent to that route.
+
+    Pass params to a route by putting them in an object as a second parameter to the navigation. navigate function: this. props. navigation. navigate('RouteName', { /* params go here */ })
+
+    Read the params in your screen component: this. props. navigation.  getParam(paramName, defaultValue) .
+
+
+## Explore Destructuring and send data to html elements using props 
+    - Example:01 Rest Countries 
+    [Rest Countries](Rest countries.index.html)
+
+
+## Website state, State management, Purpose of state
+
+    The state is a built-in React object that is used to contain data or information about the component. A component's state can change over time; whenever it changes, the component re-renders.
+
+
+## Now Go Install React App and Explore Folder Structure and Edit 
+    npm create vite@latest my-react-app -- --template react
+    cd my-react-app 
+    npm install 
+    npm run dev
+
+
+# Common Interview Question 
+    - What are the Components is React? 
+    - What do you mean by SPA? 
+    - Examples of SPA, MPA
+    - What is the best between SPA and MPA? 
+
+    
+
+
