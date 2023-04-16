@@ -86,4 +86,23 @@
 
     
 
+# 6 Core Concept 
+    - JavaScript XML (JSX)  
+        Dynamic HTML, JS 
 
+    - Component 
+
+
+    - Props 
+        Unidirectional 
+
+    - UseState 
+        const [count, setCout] = useState(0); 
+
+    - Event Handler  
+
+    - UseEffect 
+        useEffect (callback, dependenies)
+
+    
+    
