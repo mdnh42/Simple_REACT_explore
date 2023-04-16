@@ -104,5 +104,28 @@
     - UseEffect 
         useEffect (callback, dependenies)
 
+
+# 6 Core Concept (JSX, Component, Props, UseState, Event Handler and UseEffect)
+
+    Example: [React Project Rest Countries](https://melodious-boba-6ff7e0.netlify.app/)
+
+
+# Netlify Deploy Process 
+    - npm run build 
+    - Find build Folder 
+    - Drug and Drop in netlify Deploy.
+
+# Surge Deploy System: 
+
+## Recap 6 Core Concept Example: 
+    - Folder Strucure Father to Child 
+    - RSE Component 
+    - Props and Destructure 
+    - Add Css Link 
+
+
+
+
+
     
     
